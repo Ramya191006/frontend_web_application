@@ -42,20 +42,6 @@ This project is suitable for:
 
 ## 📂 Project Structure
 
-```text
-shop-ease/
-├── public/
-│   └── images/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   ├── data/
-│   └── utils/
-├── .gitignore
-├── package.json
-├── README.md
-└── next.config.js
 
 
 ---
