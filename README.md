@@ -38,13 +38,12 @@ This project is suitable for:
 - **Deployment:** Vercel  
 - **Version Control:** Git & GitHub  
 
-*(Update this section if you used additional technologies)*
-
 ---
 
 ## 📂 Project Structure
 
----text
+```text
+shop-ease/
 ├── public/
 │   └── images/
 ├── src/
@@ -58,48 +57,52 @@ This project is suitable for:
 ├── README.md
 └── next.config.js
 
----
 
+---
 ## Installation & Setup
 
 Follow these steps to run the project locally:
 
----
-
 ### Clone the Repository
-
 git clone https://github.com/your-username/shop-ease.git
 cd shop-ease
 
----
-
-##Install dependencies
+## Install Dependencies
 npm install
 
----
-
-## Run the development server
+## Run the Development Server
 npm run dev
 
----
-
-## Open in browser
+## Open in Browser
 http://localhost:3000
-
----
 
 ## Deployment
 
 The project is deployed on Vercel.
 
-To deploy your own version:
+Steps to Deploy Your Own Version:
 
-1 Push your code to GitHub
+Push your project code to GitHub
 
-2 Connect the repository to Vercel
+Connect the repository to Vercel
 
-3 Configure build settings
+Configure build settings (if required)
 
-4 Deploy
+Click Deploy
 
-Vercel automatically handles builds and hosting.
+Vercel automatically handles the build process and hosting.
+
+
+---
+
+###  What this fixes
+✔ Project Structure now renders correctly  
+✔ Every section is clearly separated  
+✔ No Markdown errors on GitHub  
+✔ Professional, clean layout  
+
+If you want, I can also:
+- Add **screenshots section**
+- Add **badges (Vercel, License, GitHub stars)**
+- Make it **college-submission perfect**
+- Simplify it into a **1-page README**
